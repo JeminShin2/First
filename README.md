@@ -12,7 +12,8 @@
 
 ~~i like banana~~
 
-**double meet buger is good!**
+*double meet buger is good!*
 
+_i like pizza_
 
 __i dont like pickle__
